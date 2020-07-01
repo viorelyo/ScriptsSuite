@@ -14,3 +14,4 @@ Script | Description
 [CheckIfSpecificDLLIsLoaded](Python/check_dll_loaded.py) | Checks if passed as argument DLL is loaded by any process
 [URLStatusWatcher](Python/status_watcher.py) | Sends a fb notification after URL is available
 [ExtractPNGsFromEXE](Python/extract_pngs_from_exe.py) | Extracts PNGs from an EXE
+[TestADCredentials](PowerShell/TestADCredentials.ps1) | Checks Active Directory Credentials
