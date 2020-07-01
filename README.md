@@ -15,3 +15,4 @@ Script | Description
 [URLStatusWatcher](Python/status_watcher.py) | Sends a fb notification after URL is available
 [ExtractPNGsFromEXE](Python/extract_pngs_from_exe.py) | Extracts PNGs from an EXE
 [TestADCredentials](PowerShell/TestADCredentials.ps1) | Checks Active Directory Credentials
+[DiscoverPDFs](Python/discover_pdfs.py) | Parses Web Pages to find and download PDF files / Downloads free PDFs from "xaker.ru"
