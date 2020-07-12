@@ -17,3 +17,4 @@ Script | Description
 [TestADCredentials](PowerShell/TestADCredentials.ps1) | Checks Active Directory Credentials
 [DiscoverPDFs](Python/discover_pdfs.py) | Parses Web Pages to find and download PDF files / Downloads free PDFs from "xaker.ru"
 [PortScanner](Go/portScanner.go) | Scans the ports of a server address
+[PortScanner](Python/site_searcher.py) | Scrapes url to find string
